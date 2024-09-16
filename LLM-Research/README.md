@@ -4,7 +4,7 @@
 
 
 
-Here, we argue that GPT-3 relies on simple attention patterns like the [Induction Head](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) to solve reasoning tasks.
+We argue that GPT-3 relies on simple attention patterns like the [Induction Head](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) to solve reasoning tasks.
 We show that GPT-3 uses a consistent attention pattern to solve the [LEGO reasoning task](https://arxiv.org/pdf/2206.04301.pdf), regardless of the size, syntax, or scrambling of the input.
 
 We hope to reverse-engineer GPT's attention pattern on this task, and make it human-interpretable. 
@@ -30,7 +30,7 @@ We find that GPT-3's performance scales linearly with the length of the hint it 
 ## Cases
 
 
-We tested the following cases:
+We test the following cases:
 
 
 - Using various problem sizes (12, 16, and 20 variables)
