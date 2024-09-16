@@ -6,9 +6,9 @@ In this repository, we use computational methods to show that rotationally symme
 Here are some rotationally symmetric materials, drawn in Reciprocal Space.
 
 <p align="center">
-<img src="/images/2.png" alt="4 fold mat" width="250"/>
-<img src="/images/3.png" alt="6 fold mat" width="250"/>
-<img src="/images/4.png" alt="10 fold mat" width="250"/>
+<img src="./images/2.png" alt="4 fold mat" width="250"/>
+<img src="./images/3.png" alt="6 fold mat" width="250"/>
+<img src="./images/4.png" alt="10 fold mat" width="250"/>
 </p>
 
 
@@ -17,15 +17,15 @@ We show that one can create spikes in the density of states (DOS) by simply tuni
 
 <p align="center">
 <img src="./images/5.png" alt="4 fold band" width="400"/>
-<img src="/images/6.png" alt="6 fold band" width="400"/>
-<!-- <img src="/images/7.png" alt="10 fold band" width="400"/> -->
+<img src="./images/6.png" alt="6 fold band" width="400"/>
+<!-- <img src="./images/7.png" alt="10 fold band" width="400"/> -->
 </p>
 
 
 We accurately calculate the Energy Spectrum of the material by using Perturbation Theory. Here are some of the resulting matrices:
 
 <p align="center">
-<img src="/images/12.png" alt="matrices" width="500"/>
+<img src="./images/12.png" alt="matrices" width="500"/>
 </p>
 
 
