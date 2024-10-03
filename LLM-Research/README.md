@@ -46,4 +46,4 @@ We test the following cases:
 ## Contributors
 
 - Mathew Pareles
-- Advised by Prof. Michael Douglas, SCGP
+- Advised by Prof. Michael Douglas, Harvard / SCGP
